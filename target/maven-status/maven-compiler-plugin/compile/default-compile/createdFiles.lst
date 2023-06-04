@@ -1,0 +1,9 @@
+com/skillsoft/SubmissionServlet.class
+com/skillsoft/BookInfoServlet.class
+com/skillsoft/UserDAO.class
+com/skillsoft/model/User.class
+com/skillsoft/RegisterServlet.class
+com/skillsoft/ServletInfo.class
+com/skillsoft/NameUtils.class
+com/skillsoft/MyServlet.class
+com/skillsoft/SignInServlet.class
